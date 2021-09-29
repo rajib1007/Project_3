@@ -1,4 +1,4 @@
-# STOCK DATA ANALYSIS AND STREAMING
+# STOCK DATA STREAMING AND ANALYSIS
 
 ## DESCRIPTION
 * This project includes live streaming of data from a stock analysis website tiingo.com.
@@ -24,11 +24,5 @@
 
 ![alt text](https://databricks.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-29-at-10.11.42-PM.png)
 
-## ROLES AND RESPONSIBILITIES
-* DATA STREAMING AND SPARK submit job- Rajib’s team
-* Use cases- Eshwar’s team
-* Visualization- Karan’s team
-* EV stock use case-Kareem
-* Deployment-Trupti’s Team
 
 
