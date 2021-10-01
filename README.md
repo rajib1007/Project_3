@@ -93,4 +93,14 @@ OUTPUT WILL BE SHOWING ON askPriceOutput TOPIC’S CONSUMER
 ##### STEP: - 10
 OPEN JUPYTER NOTEBOOK AND INSTALL matplotlib library and kafka-python ON IT
 
-
+# Contributers
+ 
+* https://github.com/piyushgoyal1620
+* https://github.com/Akhil-03
+* https://github.com/GurramEswarNaidu
+* https://github.com/6618karan
+* https://github.com/20171CSE0103
+* https://github.com/suleman804
+* https://github.com/kanand2306
+* https://github.com/kareemv46
+* https://github.com/Trupti2502
