@@ -39,10 +39,9 @@ GOTO KAFKA DIRECTORY AND RUN ZOOKEEPER AND KAFKA SERVER
 cd kafka_2.11-2.0.0/
 
 bin/zookeeper-server-start.sh config/zookeeper.properties
-![image](https://user-images.githubusercontent.com/63140467/135638690-8d7bc0f0-3f8b-4d16-8c43-43992a3c6abe.png)
 
 bin/kafka-server-start.sh config/server.properties
-![image](https://user-images.githubusercontent.com/63140467/135638729-012be315-054d-4cec-a874-3b3302398ff4.png)
+
   
 * STEP: - 4
 CREATE A TOPIC project3 WITH REPLICATION FACTOR 1 AND PARTITION 1
