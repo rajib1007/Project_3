@@ -17,7 +17,7 @@ This project is basically for collecting  enormous data and analysing it. It inc
 * Showing variation in opening and closing of shares with respect to ‘Date’.
 
 # Getting Started
-
+GitHub clone URL: https://github.com/rajib1007/Project_3.git
 ##### STEP: - 1
 
 INSTALL REQUIRED TOOLS TO PROCEED WORK & SET PATH 
@@ -93,7 +93,8 @@ OUTPUT WILL BE SHOWING ON askPriceOutput TOPIC’S CONSUMER
 ##### STEP: - 10
 OPEN JUPYTER NOTEBOOK AND INSTALL matplotlib library and kafka-python ON IT
 
-# Contributers
+
+## Contributers
  
 * https://github.com/piyushgoyal1620
 * https://github.com/Akhil-03
@@ -104,3 +105,6 @@ OPEN JUPYTER NOTEBOOK AND INSTALL matplotlib library and kafka-python ON IT
 * https://github.com/kanand2306
 * https://github.com/kareemv46
 * https://github.com/Trupti2502
+  
+## License
+This project uses the following license: [<MIT License>](<https://github.com/rajib1007/Project_3/blob/main/LICENSE>).
