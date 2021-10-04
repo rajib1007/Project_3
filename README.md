@@ -11,12 +11,12 @@ This project is basically for collecting  enormous data and analysing it. It inc
 * kafka-python 
 * matplotlib
 
-# Features
+## Features
 * Analysed ask price and bid price of our Forex data.
 * Showing variation of volume of share has sold with respect to ‘Date’.
 * Showing variation in opening and closing of shares with respect to ‘Date’.
 
-# Getting Started
+## Getting Started
 GitHub clone URL: https://github.com/rajib1007/Project_3.git
 ##### STEP: - 1
 
